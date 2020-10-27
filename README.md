@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-<!--
-**elliotfromfsociety/elliotfromfsociety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Neural Nets <br>
+🌱 I’m currently learning Deep Learning <br>
+👯 I’m looking to collaborate on Github <br>
+🤔 I’m looking for help with intership <br>
+💬 Ask me about on twitter <br>
+📫 How to reach me: twitter <br>
+😄 Pronouns: he <br>
+⚡ Fun fact: its 6inches <br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Neural Nets
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate on Github
-- 🤔 I’m looking for help with intership
-- 💬 Ask me about on twitter
-- 📫 How to reach me: twitter
-- 😄 Pronouns: ...
-- ⚡ Fun fact: its 6inches
--->
