@@ -6,6 +6,4 @@
 🤔 I’m looking for help with intership <br>
 💬 Ask me about on twitter <br>
 📫 How to reach me: twitter <br>
-😄 Pronouns: he <br>
-⚡ Fun fact: its 6inches <br>
 
